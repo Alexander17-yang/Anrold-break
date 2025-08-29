@@ -1,10 +1,18 @@
 3.0更新提要
+
 1.pyside6重构优化，添加毛玻璃效果
+
 2.支持界面浅色与深色
+
 3.支持大部分图片格式
+
 4.多线程优化，爆破速度对比2.0快2倍
+
 5.支持十六进制与十进制输入的特殊加解密方式即不需要数字
+
 6.不再与ico文件捆绑
+
+注：如果3.0出现报错请使用2.0
 <img width="1695" height="1358" alt="屏幕截图 2025-08-29 212741" src="https://github.com/user-attachments/assets/5625835c-89a3-4b9e-a31d-efc9601fc2e9" />
 
 <img width="1184" height="1349" alt="屏幕截图 2025-08-29 212758" src="https://github.com/user-attachments/assets/77dd73d0-0262-4dd7-9abd-c5ee982bed10" />
